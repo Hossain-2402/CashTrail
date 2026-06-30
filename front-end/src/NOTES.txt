@@ -1,0 +1,11 @@
+1. Make home page using React js 
+2. Edit the "src/pages/Home.js" & "src/styles/Home.css" files only 
+3. Always use css
+4. Make the ui of the page responsive for both "desktop" and "laptop"
+5. Copy the UI of these websites to make the page
+	nevbar + body : https://www.spendee.com/
+	footer : https://www.fina.money/
+6. In the body, remove the "Why do people use spendee", "Popular Articles", "They wrote about us" sections
+7. In the nevbar, the routing page link should be only 2 : "log in", "sign up"
+8. In the left side, the logo should be put in plain text saying "CashTrail"
+9. Don't do any backend work
